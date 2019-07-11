@@ -53,7 +53,14 @@ function findTheCheese (foods) {
 
 
 function wordsThatStartWithB(words){
-  
+  var a = ["brian", "bob"]
+  for(var i=0; i<words.length; i++){
+    if(words[i] == words[i].charAt()){
+      
+    }
+  }
 }
 
-wordsThatStartWithB(["brian", "bob", "jane"]) // [ ]
+wordsThatStartWithB(["brian", "bob", "jane"]) // ["brian", "bob" ]
+wordsThatStartWithB(["joe", "jill", "bob"]) // ["bob"]
+wordsThatStartWithB(["banana", "berry"]) // ["banana", "berry"]
