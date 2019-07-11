@@ -49,3 +49,11 @@ function findTheCheese (foods) {
    }*/
  }
 }
+
+
+
+function wordsThatStartWithB(words){
+  
+}
+
+wordsThatStartWithB(["brian", "bob", "jane"]) // [ ]
